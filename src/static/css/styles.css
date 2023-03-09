@@ -1,0 +1,15 @@
+.body-mod {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.flash-alert {
+    padding: 20px;
+    margin: 5px;
+    color: #730101;
+    background-color: #f0a9a9;
+    border-radius: 2px;
+}
